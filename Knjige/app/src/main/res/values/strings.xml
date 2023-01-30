@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Knjige</string>
+    <string name="naziv_knjige">Naziv knjige</string>
+    <string name="ime_autora">Ime autora</string>
+    <string name="kategorija">Kategorija:</string>
+    <string name="nadji_sliku">Nadji sliku</string>
+    <string name="upisi_knjigu">Upisi knjigu</string>
+    <string name="ponisti">Ponisti</string>
+    <string name="nazad">Nazad</string>
+    <string name="naziv_kategorije">Naziv kategorije</string>
+    <string name="pretra_i_nkategorije">Pretraži kategorije</string>
+    <string name="dodaj_kategoriju">Dodaj kategoriju</string>
+    <string name="dodaj_nknjigu">Dodaj knjigu</string>
+    <string name="kategorije">Kategorije</string>
+    <string name="autori">Autori</string>
+    <string name="upozorenjekat">"Morate dodati barem jednu kategoriju."</string>
+    <string name="upozorenjepodaci">"Molimo unesite tražene podatke."</string>string>
+</resources>

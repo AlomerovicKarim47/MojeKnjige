@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Knjige</string>
+    <string name="naziv_knjige">Book title</string>
+    <string name="ime_autora">Author name</string>
+    <string name="kategorija">Category:</string>
+    <string name="nadji_sliku">Find image</string>
+    <string name="upisi_knjigu">Enter book</string>
+    <string name="ponisti">Cancel</string>
+    <string name="nazad">Back</string>
+    <string name="naziv_kategorije">Category title</string>
+    <string name="pretra_i_nkategorije">Search categories</string>
+    <string name="dodaj_kategoriju">Add category</string>
+    <string name="dodaj_nknjigu">Add book</string>
+    <string name="kategorije">Category</string>
+    <string name="autori">Authors</string>
+    <string name="upozorenjekat">"You need to add at the least one category."</string>
+    <string name="upozorenjepodaci">"Please fill out the required fields."</string>string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="bojaSelect">#aabbed</color>
+    <color name="bojaDodaj">#a2e1aa</color>
+    <color name="bojaPonisti">#d1a3a1</color>
+    <color name="bojaPozadina">#d7e5fd</color>
+</resources>

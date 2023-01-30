@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bojaPozadina"
+    android:orientation="vertical">
+
+    <Spinner
+        android:id="@+id/sKategorije"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <EditText
+        android:id="@+id/tekstUpit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <Spinner
+        android:id="@+id/sRezultat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/dRun"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="pretraga" />
+
+    <Button
+        android:id="@+id/dAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dodaj knjigu" />
+
+    <Button
+        android:id="@+id/dPovratak"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nazad" />
+
+</LinearLayout>
